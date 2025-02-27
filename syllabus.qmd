@@ -1,0 +1,47 @@
+---
+title: Syllabus
+---
+
+## Identification
+
+- **Libellé :** SI07-001-G Information systems management
+- **Année académique :** 2024 - 2025
+- **Campus :** Aix-en-Provence, Angers, Bordeaux, Boulogne-Billancourt, Lyon, Strasbourg
+- **Responsable :**
+- **Pôle :** Operations Management and Decision Science
+- **Langues :** English
+- **Code :** SI07-001-G
+- **Semestre :** 07 - 08
+- **Durée :** 30 heures
+- **Ouvert aux étudiants en échange :** Oui
+- **ECTS :** 5
+
+## Course Overview
+
+This course aims to equip students with competencies in leadership, strategy, decision-making, ethics, and corporate social responsibility (CSR).
+
+## Compétences visées
+
+#### 1. Leadership, stratégie, prise de décision**
+
+**1.4** Les diplômées et diplômés seront en mesure de mener un processus de prise de décision selon l'analyse et l'évaluation faites du contexte de leur mission en entreprise
+
+#### 3. Ethique et RSE
+
+**3.2** Les diplômées et diplômés seront en mesure d'analyser les tenants et aboutissants des enjeux sociaux et environnementaux de leur profession
+
+## Organisation
+
+
+## Assessment
+
+- **Project (40%):** roup project analyzing a real-world organization's information system strategy and its alignment with business objectives.
+- **Written Assignments (30%):** ndividual essays on topics such as ethical challenges in IT or case studies on IT governance.
+- **Individual Tasks (30%):** resentations or reports on selected readings or current trends in information systems.
+
+## Recommended Readings
+
+1. akhlouf, M. (2013). *Gouvernance Corporate et Gouvernance des Systèmes d'Information: Une approche unificatrice globale*. Edition PAF.
+2. audon, K., & Laudon, J. (2009). *Management Information Systems: International Edition* (11th ed.).
+3. enderson, J. C., & Venkatraman, N. (1992). "Strategic alignment: a model for organizational transformation through information technology." *Transforming Organizations*, 97-117.
+4. hen, D. Q., Mocker, M., Preston, D. S., & Teubner, A. (2010). "Information systems strategy: reconceptualization, measurement, and implications." *MIS Quarterly*, 233-259.

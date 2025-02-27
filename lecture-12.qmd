@@ -1,0 +1,114 @@
+---
+title: "Information System (IS) Integration and ERP Systems"
+---
+
+---
+
+### **Lecture Title:**  
+**Understanding IS Integration and Enterprise Resource Planning (ERP) Systems**  
+
+---
+
+### **Learning Objectives:**  
+By the end of the lecture, students should be able to:  
+1. Understand the concept of IS integration and why it is essential for organizations.  
+2. Identify challenges in integrating information systems.  
+3. Define ERP systems and explain their key functional modules.  
+
+---
+
+### **Lecture Structure:**  
+
+#### **1. What is Information System (IS) Integration? (20 minutes)**  
+- **Definition:** IS integration refers to connecting different software applications and databases to function as a unified system.  
+- **Importance:**  
+  - Streamlines business processes  
+  - Enhances data visibility and accuracy  
+  - Supports real-time decision-making  
+
+- **Types of Integration:**  
+  - **Data Integration:** Centralizing data for consistent access  
+  - **Application Integration:** Linking systems for smooth process execution  
+  - **Process Integration:** Automating workflows across departments  
+
+- **Examples:**  
+  - Integration between CRM (Customer Relationship Management) and ERP  
+  - E-commerce platform integration with supply chain systems  
+
+---
+
+#### **2. Challenges of IS Integration (15 minutes)**  
+- **Technical Challenges:**  
+  - Legacy systems incompatibility  
+  - Data migration issues  
+  - Maintaining data integrity and security  
+
+- **Organizational Challenges:**  
+  - Resistance to change from employees  
+  - High implementation and maintenance costs  
+  - Coordination between departments  
+
+- **Case Study:**  
+  - Analyze a failed or complex integration (e.g., Hershey’s failed ERP implementation in the late 1990s, which led to supply chain disruptions).  
+
+---
+
+#### **3. What is an ERP System? (15 minutes)**  
+- **Definition:**  
+  An ERP (Enterprise Resource Planning) system is an integrated software platform that manages core business processes in real time through a centralized database.  
+
+- **Core Characteristics of ERPs:**  
+  - Unified data model  
+  - Real-time data updates  
+  - Modular architecture  
+
+- **Functional Modules in ERP:**  
+  - **Finance and Accounting:** Budgeting, payroll  
+  - **Supply Chain Management (SCM):** Inventory and order management  
+  - **Human Resource Management (HRM):** Employee records, payroll  
+  - **Customer Relationship Management (CRM):** Sales and customer interactions  
+
+---
+
+#### **4. ERP System Demonstration (Optional or Video Presentation) (10 minutes)**  
+- Show a demo video of an ERP like SAP, Oracle, or Microsoft Dynamics.  
+- Highlight how departments use ERP modules for finance, HR, and sales.
+
+---
+
+#### **5. Discussion and Q&A (10 minutes)**  
+- **Discussion Prompt:** What potential challenges would your organization face if implementing a new ERP?  
+- **Q&A:** Encourage students to ask about ERP selection criteria, customization, and best practices.  
+
+---
+
+### **Assessment Idea:**  
+- **In-Class Activity:**  
+  - Ask students to map the different functional modules of an ERP system for a fictional company (e.g., a mid-sized retail chain).  
+
+- **Homework Assignment:**  
+  - Write a short report on the advantages and potential risks of ERP adoption in a specific industry.  
+
+Would you like help drafting case studies or finding demo materials for the ERP section?
+
+
+## OpenAI API
+
+```{bash}
+curl https://api.openai.com/v1/models \
+  -H "Authorization: Bearer" \
+  -H "OpenAI-Organization: " \
+  -H "OpenAI-Project: "
+```
+
+
+```{bash}
+curl https://api.openai.com/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer " \
+  -d '{
+     "model": "gpt-4o-mini",
+     "messages": [{"role": "user", "content": "Say this is a test!"}],
+     "temperature": 0.7
+   }'
+```

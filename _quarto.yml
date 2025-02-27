@@ -1,0 +1,82 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: SI07-001-G Information systems management
+  # site-url: https://guillaumegilles.github.io/
+  # description: A website at the crossroad of technology, social science, society, economy, and history.
+  # image: 
+
+  # Github action buttons
+  # repo-url: https://github.com/guillaumegilles/guillaumegilles.github.io/
+  # repo-actions: [issue]
+
+  # Social Metadata
+  # favicon: images/cat.png
+  # twitter-card: true
+  # open-graph: true
+
+  # Google Analytics
+  # If you are forking my repo to develop content or your own purposes
+  # please disable my Google Analytics tag during development. If building
+  # your own site, replace our GA tag with your own GA tag before 
+  # deployment. This will prevent your activity being tracked and counted
+  # in our analytics dashboard. Thank you!
+  google-analytics: G-6BXJC408ED
+
+  # Website navigation
+  page-navigation: true
+  back-to-top-navigation: true
+
+  # Navbar
+  navbar:
+    logo: ../../images/cat.png
+    title: false
+    right:
+      - text: ABOUT
+        href: ../../about.html
+      - text: PROJECTS
+        href: ../../projects.html
+      - text: TEACHING
+        href: ../../teaching.html
+      - text: BLOG
+        href: ../../blog.html
+
+  sidebar:
+    search: true
+    tools:
+      - icon: github
+        text: GitHub
+        href: https://github.com/guillaumegilles/description-donnees
+      - icon: code-square
+        text: Moodle
+        href: https://moodle.essca.fr/course/view.php?id=12466#module-241126
+    contents:
+      - index.qmd
+      - section: Information
+        contents:
+          - href: planning.qmd
+          - href: syllabus.qmd
+      - section: Cours
+        contents:
+          - href: seance1.qmd
+  
+  page-footer:
+    center:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/guillaumegilles/
+      - icon: file-earmark-code-fill
+        href: https://www.kaggle.com/guillaumegilles
+      - icon: github
+        href: https://github.com/guillaumegilles
+
+format:
+  html:
+    page-layout: full
+    theme: flaty
+
+    # References
+    citation-location: margin
+
+    email-obfuscation: javascript
