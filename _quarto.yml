@@ -48,10 +48,10 @@ website:
     tools:
       - icon: github
         text: GitHub
-        href: https://github.com/guillaumegilles/description-donnees
+        href: https://github.com/guillaumegilles/management-information-system
       - icon: code-square
         text: Moodle
-        href: https://moodle.essca.fr/course/view.php?id=12466#module-241126
+        href: https://moodle.essca.fr/course/view.php?id=12518
     contents:
       - index.qmd
       - section: Information
