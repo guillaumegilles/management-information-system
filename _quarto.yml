@@ -53,42 +53,41 @@ website:
         text: Moodle
         href: https://moodle.essca.fr/course/view.php?id=12518
     contents:
-      - index.qmd
-      - section: Information
+      - text: HOME
+        href: index.qmd
+      - section: INFORMATION
         contents:
           - href: planning.qmd
           - href: syllabus.qmd
-      - section: Course
+      - section: "Module 1: Foundations of Information Systems Management"
         contents:
-          - section: "Module 1: Foundations of Information Systems Management"
-            contents:
-              - href: session-1.qmd
-              - href: session-2.qmd
-          - section: "Module 2: IS Strategy & Decision-Making"
-            contents:
-              - href: session-3.qmd
-              - href: session-4.qmd
-          - section: "Module 3: Ethics, CSR, and IS Management"
-            contents:
-              - href: session-5.qmd
-              - href: session-6.qmd
-          - section: "Module 4: Information Systems Implementation & Change Management"
-            contents:
-              - href: session-7.qmd
-              - href: session-8.qmd
-          - section: "Module 5: Emerging Trends & Innovations in IS"
-            contents:
-              - href: session-9.qmd
-              - href: session-10.qmd
-          - section: "Module 6: Practical Applications & Case Studies"
-            contents:
-              - href: session-11.qmd
-              - href: session-12.qmd
-          - section: "Module 7: Final Projects & Review"
-            contents:
-              - href: session-13.qmd
-              - href: session-14.qmd
-              - href: session-15.qmd
+          - href: session-1.qmd
+          - href: session-2.qmd
+      - section: "Module 2: IS Strategy & Decision-Making"
+        contents:
+          - href: session-3.qmd
+          - href: session-4.qmd
+      - section: "Module 3: Ethics, CSR, and IS Management"
+        contents:
+          - href: session-5.qmd
+          - href: session-6.qmd
+      - section: "Module 4: Information Systems Implementation & Change Management"
+        contents:
+          - href: session-7.qmd
+          - href: session-8.qmd
+      - section: "Module 5: Emerging Trends & Innovations in IS"
+        contents:
+          - href: session-9.qmd
+          - href: session-10.qmd
+      - section: "Module 6: Practical Applications & Case Studies"
+        contents:
+          - href: session-11.qmd
+          - href: session-12.qmd
+      - section: "Module 7: Final Projects & Review"
+        contents:
+          - href: session-13.qmd
+          - href: session-14.qmd
+          - href: session-15.qmd
   
   page-footer:
     center:
