@@ -2,7 +2,6 @@
 title: Information System Management
 description: >
   test de desc
-image: r2d3.png
 ---
 
 This page contains an outline of the topics, content, and assignments for

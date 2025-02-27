@@ -44,7 +44,7 @@ website:
         href: ../../blog.html
 
   sidebar:
-    search: true
+    logo: assets/r2d3.png
     tools:
       - icon: github
         text: GitHub
