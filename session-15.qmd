@@ -1,15 +1,12 @@
 ---
 title: "Session 15: Final Project Presentations & Course Wrap-Up"
 author: Guillaume Gilles
+date: 2024-02-28
 format:
   html:
     other-links:
-      - text: NASA Open Data
-        href: https://data.nasa.gov/
-    code-links:
-      - text: Data Import Code
-        icon: file-code
-        href: slides/slides-15.qmd
+      - text: Slides
+        href: slides/slides-15.html
 ---
 
  (2h)
