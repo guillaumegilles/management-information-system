@@ -1,6 +1,7 @@
 ---
 title: "Session 15: **I**nformation **S**ystem failures"
 author: Guillaume Gilles
+date: 2024-02-28
 format:
   revealjs:
     theme: dark

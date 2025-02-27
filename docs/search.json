@@ -7,7 +7,7 @@
     "text": "Libellé : SI07-001-G Information systems management\nAnnée académique : 2024 - 2025\nCampus : Aix-en-Provence, Angers, Bordeaux, Boulogne-Billancourt, Lyon, Strasbourg\nResponsable :\nPôle : Operations Management and Decision Science\nLangues : English\nCode : SI07-001-G\nSemestre : 07 - 08\nDurée : 30 heures\nOuvert aux étudiants en échange : Oui\nECTS : 5",
     "crumbs": [
       "ABOUT",
-      "Information",
+      "INFORMATION",
       "Syllabus"
     ]
   },
@@ -19,7 +19,7 @@
     "text": "Libellé : SI07-001-G Information systems management\nAnnée académique : 2024 - 2025\nCampus : Aix-en-Provence, Angers, Bordeaux, Boulogne-Billancourt, Lyon, Strasbourg\nResponsable :\nPôle : Operations Management and Decision Science\nLangues : English\nCode : SI07-001-G\nSemestre : 07 - 08\nDurée : 30 heures\nOuvert aux étudiants en échange : Oui\nECTS : 5",
     "crumbs": [
       "ABOUT",
-      "Information",
+      "INFORMATION",
       "Syllabus"
     ]
   },
@@ -31,7 +31,7 @@
     "text": "Course Overview\nThis course aims to equip students with competencies in leadership, strategy, decision-making, ethics, and corporate social responsibility (CSR).",
     "crumbs": [
       "ABOUT",
-      "Information",
+      "INFORMATION",
       "Syllabus"
     ]
   },
@@ -43,7 +43,7 @@
     "text": "Compétences visées\n\n1. Leadership, stratégie, prise de décision**\n1.4 Les diplômées et diplômés seront en mesure de mener un processus de prise de décision selon l’analyse et l’évaluation faites du contexte de leur mission en entreprise\n\n\n3. Ethique et RSE\n3.2 Les diplômées et diplômés seront en mesure d’analyser les tenants et aboutissants des enjeux sociaux et environnementaux de leur profession",
     "crumbs": [
       "ABOUT",
-      "Information",
+      "INFORMATION",
       "Syllabus"
     ]
   },
@@ -55,7 +55,7 @@
     "text": "Organisation",
     "crumbs": [
       "ABOUT",
-      "Information",
+      "INFORMATION",
       "Syllabus"
     ]
   },
@@ -67,7 +67,7 @@
     "text": "Assessment\n\nProject (40%): roup project analyzing a real-world organization’s information system strategy and its alignment with business objectives.\nWritten Assignments (30%): ndividual essays on topics such as ethical challenges in IT or case studies on IT governance.\nIndividual Tasks (30%): resentations or reports on selected readings or current trends in information systems.",
     "crumbs": [
       "ABOUT",
-      "Information",
+      "INFORMATION",
       "Syllabus"
     ]
   },
@@ -79,21 +79,167 @@
     "text": "Recommended Readings\n\nakhlouf, M. (2013). Gouvernance Corporate et Gouvernance des Systèmes d’Information: Une approche unificatrice globale. Edition PAF.\naudon, K., & Laudon, J. (2009). Management Information Systems: International Edition (11th ed.).\nenderson, J. C., & Venkatraman, N. (1992). “Strategic alignment: a model for organizational transformation through information technology.” Transforming Organizations, 97-117.\nhen, D. Q., Mocker, M., Preston, D. S., & Teubner, A. (2010). “Information systems strategy: reconceptualization, measurement, and implications.” MIS Quarterly, 233-259.",
     "crumbs": [
       "ABOUT",
-      "Information",
+      "INFORMATION",
       "Syllabus"
     ]
   },
   {
-    "objectID": "session-12.html#openai-api",
-    "href": "session-12.html#openai-api",
-    "title": "Information System (IS) Integration and ERP Systems",
-    "section": "OpenAI API",
-    "text": "OpenAI API\ncurl https://api.openai.com/v1/models \\\n  -H \"Authorization: Bearer\" \\\n  -H \"OpenAI-Organization: \" \\\n  -H \"OpenAI-Project: \"\ncurl https://api.openai.com/v1/chat/completions \\\n  -H \"Content-Type: application/json\" \\\n  -H \"Authorization: Bearer \" \\\n  -d '{\n     \"model\": \"gpt-4o-mini\",\n     \"messages\": [{\"role\": \"user\", \"content\": \"Say this is a test!\"}],\n     \"temperature\": 0.7\n   }'",
+    "objectID": "session-13.html",
+    "href": "session-13.html",
+    "title": "Session 13: Case Study Workshop",
+    "section": "",
+    "text": "(2h)\nReviewing real-world cases of IS strategy & governance\nGroup presentations of case studies\n\n\n\n Back to top",
     "crumbs": [
       "ABOUT",
-      "Course",
+      "Module 7: Final Projects & Review",
+      "Session 13: Case Study Workshop"
+    ]
+  },
+  {
+    "objectID": "session-12.html",
+    "href": "session-12.html",
+    "title": "Session 12: IT Outsourcing & Vendor Management",
+    "section": "",
+    "text": "Outsourcing strategies & risks\nManaging vendor relationships in IS\nCase Study: Success & failure stories in IT outsourcing\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
       "Module 6: Practical Applications & Case Studies",
-      "Information System (IS) Integration and ERP Systems"
+      "Session 12: IT Outsourcing & Vendor Management"
+    ]
+  },
+  {
+    "objectID": "session-9.html",
+    "href": "session-9.html",
+    "title": "Session 9: Digital Transformation & Cloud Computing",
+    "section": "",
+    "text": "What is digital transformation?\nRole of cloud computing in modern businesses\nDiscussion: How companies leverage the cloud for competitive advantage\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
+      "Module 5: Emerging Trends & Innovations in IS",
+      "Session 9: Digital Transformation & Cloud Computing"
+    ]
+  },
+  {
+    "objectID": "session-11.html",
+    "href": "session-11.html",
+    "title": "Session 11: Cybersecurity & IS Management",
+    "section": "",
+    "text": "Common cybersecurity threats and IS security strategies\nImportance of cybersecurity governance\nExercise: Responding to a cybersecurity breach scenario\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
+      "Module 6: Practical Applications & Case Studies",
+      "Session 11: Cybersecurity & IS Management"
+    ]
+  },
+  {
+    "objectID": "slides/slides-1.html#part-1-course-overview-30-minutes",
+    "href": "slides/slides-1.html#part-1-course-overview-30-minutes",
+    "title": "Session 1: Course Introduction & Key Concepts",
+    "section": "📌 Part 1: Course Overview (30 minutes)",
+    "text": "📌 Part 1: Course Overview (30 minutes)\n🎤 Instructor Introduction (5 min)\n- Brief background on the instructor.\n- Relevance of IS management in today’s business environment.\n📚 Syllabus & Course Structure (15 min)\n- Overview of the course topics (15 sessions).\n- Explanation of assessments:\n- Project (40%) – Group project analyzing a real-world organization’s IS strategy.\n- Written Assignments (30%) – Individual essays on IT ethics and governance.\n- Individual Tasks (30%) – Presentations/reports on selected readings and IS trends.\n- Expected student engagement and participation.\n💬 Icebreaker Activity: What Do You Expect? (10 min)\n- Students discuss their expectations for the course.\n- Instructor asks: “What IS-related challenges have you encountered or heard about?”"
+  },
+  {
+    "objectID": "slides/slides-1.html#part-2-understanding-information-systems-40-minutes",
+    "href": "slides/slides-1.html#part-2-understanding-information-systems-40-minutes",
+    "title": "Session 1: Course Introduction & Key Concepts",
+    "section": "📌 Part 2: Understanding Information Systems (40 minutes)",
+    "text": "📌 Part 2: Understanding Information Systems (40 minutes)\n📖 Lecture: What is an Information System? (15 min)\n- Definition: IS is a set of components (hardware, software, data, people, processes) that work together to manage and process information.\n- Examples: ERP systems (SAP, Oracle), CRM (Salesforce), Business Intelligence tools (Power BI).\n- Types of IS:\n- Transaction Processing Systems (TPS)\n- Management Information Systems (MIS)\n- Decision Support Systems (DSS)\n- Enterprise Systems (ERP, SCM, CRM)\n🛠 Activity: Identify IS in Everyday Life (10 min)\n- Students list IS they use daily (e.g., Google Drive, Netflix, online banking).\n- Class discussion on how these systems support decision-making.\n📌 Case Example: Amazon’s Use of IS (15 min)\n- How Amazon leverages IS for:\n- Inventory management (AI-driven demand forecasting).\n- Customer personalization (data analytics and machine learning).\n- Cloud computing (AWS as a business strategy).\n- Discussion: “How does Amazon’s IS align with its business strategy?”"
+  },
+  {
+    "objectID": "slides/slides-1.html#part-3-challenges-in-is-management-30-minutes",
+    "href": "slides/slides-1.html#part-3-challenges-in-is-management-30-minutes",
+    "title": "Session 1: Course Introduction & Key Concepts",
+    "section": "📌 Part 3: Challenges in IS Management (30 minutes)",
+    "text": "📌 Part 3: Challenges in IS Management (30 minutes)\n🛠 Lecture: Key Challenges in Managing IS (10 min)\n- Technology Evolution: Keeping up with rapid technological changes.\n- Security & Privacy: Cybersecurity threats and data breaches.\n- Strategic Alignment: Ensuring IS supports business goals.\n- Change Management: Resistance to new systems within organizations.\n💬 Group Discussion: The Biggest IS Challenge Today? (10 min)\n- Students brainstorm the biggest IS challenges in businesses today.\n- Each group presents one challenge and a possible solution.\n📌 Mini Case Study: A Cybersecurity Failure (Equifax Data Breach) (10 min)\n- What happened? 147 million people’s data was exposed.\n- What went wrong in IS management?\n- Lessons learned for businesses."
+  },
+  {
+    "objectID": "slides/slides-1.html#part-4-wrap-up-reflection-20-minutes",
+    "href": "slides/slides-1.html#part-4-wrap-up-reflection-20-minutes",
+    "title": "Session 1: Course Introduction & Key Concepts",
+    "section": "📌 Part 4: Wrap-Up & Reflection (20 minutes)",
+    "text": "📌 Part 4: Wrap-Up & Reflection (20 minutes)\n📝 Quick Recap & Key Takeaways (10 min)\n- What is IS, and why is it important?\n- How do businesses use IS strategically?\n- What are the key IS challenges today?\n🎯 Reflection Activity (10 min)\n- Each student writes down one IS-related question they want answered in this course.\n- Instructor collects and addresses a few in the next session.\n💡 Homework for Next Session:\n1. Read: “Strategic alignment: A model for organizational transformation through IT” (Henderson & Venkatraman, 1992).\n2. Prepare: A 2-minute summary of how IS strategy aligns with business strategy."
+  },
+  {
+    "objectID": "session-15.html",
+    "href": "session-15.html",
+    "title": "Session 15: Final Project Presentations & Course Wrap-Up",
+    "section": "",
+    "text": "(2h)\nGroup project presentations\nCourse reflections & takeaways\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
+      "Module 7: Final Projects & Review",
+      "Session 15: Final Project Presentations & Course Wrap-Up"
+    ]
+  },
+  {
+    "objectID": "session-6.html",
+    "href": "session-6.html",
+    "title": "Session 6: Corporate Social Responsibility (CSR) & IS",
+    "section": "",
+    "text": "Sustainable IT practices\nThe role of IS in CSR initiatives\nCase Study: Green IT initiatives in companies\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
+      "Module 3: Ethics, CSR, and IS Management",
+      "Session 6: Corporate Social Responsibility (CSR) & IS"
+    ]
+  },
+  {
+    "objectID": "session-8.html",
+    "href": "session-8.html",
+    "title": "Session 8: IT Governance & Risk Management",
+    "section": "",
+    "text": "IT governance structures and policies\nRisk management strategies in IS\nCase Study: IT governance failure and lessons learned\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
+      "Module 4: Information Systems Implementation & Change Management",
+      "Session 8: IT Governance & Risk Management"
+    ]
+  },
+  {
+    "objectID": "session-5.html",
+    "href": "session-5.html",
+    "title": "Session 5: Ethics in IS Management",
+    "section": "",
+    "text": "Ethical challenges in IT (privacy, security, AI bias)\nRegulatory compliance (GDPR, cybersecurity laws)\nDebate: Ethical dilemmas in IT\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
+      "Module 3: Ethics, CSR, and IS Management",
+      "Session 5: Ethics in IS Management"
+    ]
+  },
+  {
+    "objectID": "session-7.html",
+    "href": "session-7.html",
+    "title": "Session 7: Implementing IS in Organizations",
+    "section": "",
+    "text": "IS project lifecycle (planning, implementation, evaluation)\nChange management in IS adoption\nExercise: Managing resistance to IS change\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
+      "Module 4: Information Systems Implementation & Change Management",
+      "Session 7: Implementing IS in Organizations"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Information System Management",
+    "section": "",
+    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\nSession Date Topic Prepare Materials Due\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
+      "HOME"
+    ]
+  },
+  {
+    "objectID": "session-2.html",
+    "href": "session-2.html",
+    "title": "IS Governance & Strategic Alignment",
+    "section": "",
+    "text": "IS governance frameworks (COBIT, ITIL)\nStrategic alignment model (Henderson & Venkatraman, 1992)\nCase Study: Evaluating IS governance in a real-world company\n\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
+      "Module 1: Foundations of Information Systems Management",
+      "IS Governance & Strategic Alignment"
     ]
   },
   {
@@ -153,43 +299,40 @@
     "text": "Final Thoughts\nThese massive information system failures highlight the importance of cybersecurity, IT governance, and risk management. Whether it’s data breaches, software failures, or poor project execution, organizations must invest in robust security, testing, and contingency planning to prevent catastrophic failures.\nWould you like me to go deeper into any specific case? 🚀"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Information System Management",
+    "objectID": "session-4.html",
+    "href": "session-4.html",
+    "title": "Session 4: Decision-Making in IS Management",
     "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\nSession Date Topic Prepare Materials Due\n\n\n\n Back to top",
+    "text": "Decision-making frameworks in IS\nData-driven decision-making\nSimulation: IS decision-making in a competitive environment\n\n\n\n Back to top",
     "crumbs": [
       "ABOUT",
-      "Information System Management"
+      "Module 2: IS Strategy & Decision-Making",
+      "Session 4: Decision-Making in IS Management"
     ]
   },
   {
-    "objectID": "slides/slides-1.html#part-1-course-overview-30-minutes",
-    "href": "slides/slides-1.html#part-1-course-overview-30-minutes",
-    "title": "Session 1: Course Introduction & Key Concepts",
-    "section": "📌 Part 1: Course Overview (30 minutes)",
-    "text": "📌 Part 1: Course Overview (30 minutes)\n🎤 Instructor Introduction (5 min)\n- Brief background on the instructor.\n- Relevance of IS management in today’s business environment.\n📚 Syllabus & Course Structure (15 min)\n- Overview of the course topics (15 sessions).\n- Explanation of assessments:\n- Project (40%) – Group project analyzing a real-world organization’s IS strategy.\n- Written Assignments (30%) – Individual essays on IT ethics and governance.\n- Individual Tasks (30%) – Presentations/reports on selected readings and IS trends.\n- Expected student engagement and participation.\n💬 Icebreaker Activity: What Do You Expect? (10 min)\n- Students discuss their expectations for the course.\n- Instructor asks: “What IS-related challenges have you encountered or heard about?”"
+    "objectID": "session-14.html",
+    "href": "session-14.html",
+    "title": "Session 14: Project Work & Feedback",
+    "section": "",
+    "text": "(2h)\nTeams work on final project presentations\nInstructor feedback and guidance\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
+      "Module 7: Final Projects & Review",
+      "Session 14: Project Work & Feedback"
+    ]
   },
   {
-    "objectID": "slides/slides-1.html#part-2-understanding-information-systems-40-minutes",
-    "href": "slides/slides-1.html#part-2-understanding-information-systems-40-minutes",
-    "title": "Session 1: Course Introduction & Key Concepts",
-    "section": "📌 Part 2: Understanding Information Systems (40 minutes)",
-    "text": "📌 Part 2: Understanding Information Systems (40 minutes)\n📖 Lecture: What is an Information System? (15 min)\n- Definition: IS is a set of components (hardware, software, data, people, processes) that work together to manage and process information.\n- Examples: ERP systems (SAP, Oracle), CRM (Salesforce), Business Intelligence tools (Power BI).\n- Types of IS:\n- Transaction Processing Systems (TPS)\n- Management Information Systems (MIS)\n- Decision Support Systems (DSS)\n- Enterprise Systems (ERP, SCM, CRM)\n🛠 Activity: Identify IS in Everyday Life (10 min)\n- Students list IS they use daily (e.g., Google Drive, Netflix, online banking).\n- Class discussion on how these systems support decision-making.\n📌 Case Example: Amazon’s Use of IS (15 min)\n- How Amazon leverages IS for:\n- Inventory management (AI-driven demand forecasting).\n- Customer personalization (data analytics and machine learning).\n- Cloud computing (AWS as a business strategy).\n- Discussion: “How does Amazon’s IS align with its business strategy?”"
-  },
-  {
-    "objectID": "slides/slides-1.html#part-3-challenges-in-is-management-30-minutes",
-    "href": "slides/slides-1.html#part-3-challenges-in-is-management-30-minutes",
-    "title": "Session 1: Course Introduction & Key Concepts",
-    "section": "📌 Part 3: Challenges in IS Management (30 minutes)",
-    "text": "📌 Part 3: Challenges in IS Management (30 minutes)\n🛠 Lecture: Key Challenges in Managing IS (10 min)\n- Technology Evolution: Keeping up with rapid technological changes.\n- Security & Privacy: Cybersecurity threats and data breaches.\n- Strategic Alignment: Ensuring IS supports business goals.\n- Change Management: Resistance to new systems within organizations.\n💬 Group Discussion: The Biggest IS Challenge Today? (10 min)\n- Students brainstorm the biggest IS challenges in businesses today.\n- Each group presents one challenge and a possible solution.\n📌 Mini Case Study: A Cybersecurity Failure (Equifax Data Breach) (10 min)\n- What happened? 147 million people’s data was exposed.\n- What went wrong in IS management?\n- Lessons learned for businesses."
-  },
-  {
-    "objectID": "slides/slides-1.html#part-4-wrap-up-reflection-20-minutes",
-    "href": "slides/slides-1.html#part-4-wrap-up-reflection-20-minutes",
-    "title": "Session 1: Course Introduction & Key Concepts",
-    "section": "📌 Part 4: Wrap-Up & Reflection (20 minutes)",
-    "text": "📌 Part 4: Wrap-Up & Reflection (20 minutes)\n📝 Quick Recap & Key Takeaways (10 min)\n- What is IS, and why is it important?\n- How do businesses use IS strategically?\n- What are the key IS challenges today?\n🎯 Reflection Activity (10 min)\n- Each student writes down one IS-related question they want answered in this course.\n- Instructor collects and addresses a few in the next session.\n💡 Homework for Next Session:\n1. Read: “Strategic alignment: A model for organizational transformation through IT” (Henderson & Venkatraman, 1992).\n2. Prepare: A 2-minute summary of how IS strategy aligns with business strategy."
+    "objectID": "session-10.html",
+    "href": "session-10.html",
+    "title": "Session 10: Artificial Intelligence & Big Data in IS",
+    "section": "",
+    "text": "Role of AI and big data in decision-making\nEthical concerns of AI in business\nGroup Discussion: AI’s impact on IS management\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
+      "Module 5: Emerging Trends & Innovations in IS",
+      "Session 10: Artificial Intelligence & Big Data in IS"
+    ]
   },
   {
     "objectID": "session-1.html",
@@ -199,9 +342,20 @@
     "text": "Overview\nThis session introduces students to the foundational concepts of Information Systems (IS) management. It provides an overview of the course structure, assessment criteria, and the importance of IS in organizations. The session also explores real-world applications and challenges associated with IS management.\n\n\nLearning Objectives\n\nUnderstand the course structure and assessment methods: Students will be introduced to the overall layout of the course, including key topics and evaluation methods, such as projects, assignments, and presentations.\nDefine Information Systems and their role in businesses: This section covers the fundamental definition of IS, explaining how these systems collect, process, store, and distribute information within an organization.\nIdentify key challenges in IS management: Students will explore the most pressing issues faced by businesses when managing their IS, such as cybersecurity threats, technology integration, and aligning IS with business goals.\nAnalyze how IS supports business strategy using real-world examples: By examining case studies like Amazon and Equifax, students will learn how IS contributes to strategic business decisions and competitive advantage.\n\n\n\nCourse Overview & Expectations\n\nInstructor Introduction: The session begins with a brief introduction to the instructor’s background, expertise, and relevance of IS management in today’s business world.\nCourse Structure: The course consists of 15 structured sessions covering IS strategy, governance, ethics, emerging trends, and practical applications. Each session is designed to balance theoretical learning with case studies and hands-on activities.\nAssessment Breakdown:\n\nGroup Project (40%) – A team-based analysis of a real-world organization’s IS strategy and its alignment with business objectives.\nWritten Assignments (30%) – Individual essays exploring IT ethics, IS governance, and management case studies.\nIndividual Tasks (30%) – Students will deliver presentations and reports on selected readings and trends in IS.\n\n\n\n\nKey Concepts in Information Systems\n\nWhat is an Information System?\nAn Information System (IS) is a structured framework that consists of technology, people, and processes designed to collect, manage, and analyze data for decision-making. IS plays a crucial role in various business functions, from operational efficiency to strategic planning.\n\n\nTypes of IS:\n\nTransaction Processing Systems (TPS): Used for routine business transactions, such as payroll processing and order management.\nManagement Information Systems (MIS): Designed to help middle managers make informed decisions using structured data.\nDecision Support Systems (DSS): Provides analytical tools and models to assist in complex decision-making.\nEnterprise Systems (ERP, SCM, CRM): Integrated platforms that connect different departments within a business for seamless information flow and process optimization.\n\n\n\n\nReal-World Example: Amazon’s Use of IS\nAmazon utilizes sophisticated IS to maintain its dominance in e-commerce and cloud computing: - Inventory Management: AI-powered forecasting models predict demand and optimize stock levels to ensure efficient supply chain operations. - Customer Personalization: Advanced data analytics and machine learning algorithms analyze customer behavior to offer personalized recommendations. - Cloud Computing: Amazon Web Services (AWS) provides scalable computing power and cloud-based solutions for businesses worldwide, making it a key player in IS-driven business transformation.\n\n\nChallenges in IS Management\n\nKeeping up with rapid technological changes: Organizations must constantly adapt to emerging technologies like AI, blockchain, and cloud computing to remain competitive.\nCybersecurity threats and data privacy concerns: With increasing cyber threats, companies must invest in robust security measures to protect sensitive data and comply with regulations like GDPR.\nAligning IS with business objectives: Ensuring that IS investments support the overall business strategy is crucial for maximizing value.\nManaging resistance to new IS implementations: Employees often resist changes to technology due to lack of training or fear of job displacement.\n\n\n\nCase Study: Equifax Data Breach\nEquifax, a major credit reporting agency, suffered a catastrophic data breach in 2017, exposing personal data of 147 million people. The failure was attributed to poor IS security management, including outdated systems and delayed software patches. This case highlights the critical need for cybersecurity governance and proactive risk management in IS.\n\n\nClass Activities\n\nIcebreaker: Students discuss their expectations for the course and share personal experiences related to IS.\nIdentify IS in Everyday Life: Students list and analyze various IS they use daily, such as online banking, Netflix, or cloud storage, and discuss how these systems enhance decision-making.\nGroup Discussion: Teams debate the most pressing IS challenges today and propose possible solutions.\nMini Case Study: Analyzing the Equifax Data Breach, students identify key IS failures and lessons learned.\n\n\n\nHomework for Next Session\n\nReading: “Strategic alignment: A model for organizational transformation through IT” – Henderson & Venkatraman (1992).\nPreparation: Each student prepares a 2-minute summary explaining how IS strategy aligns with business objectives, to be discussed in the next session.\n\n\n\nResources\n\nStrategic Alignment Model (Henderson & Venkatraman, 1992) – A foundational framework explaining how IS supports business strategy.\nHow Amazon Uses IS for Competitive Advantage – Insights into Amazon’s data-driven decision-making and operational efficiency.\nEquifax Data Breach Case Study – A detailed breakdown of the breach, its causes, and preventative measures for organizations.\n\n\n\n\n\n Back to top",
     "crumbs": [
       "ABOUT",
-      "Course",
       "Module 1: Foundations of Information Systems Management",
       "Session 1: Course Introduction & Key Concepts"
+    ]
+  },
+  {
+    "objectID": "session-3.html",
+    "href": "session-3.html",
+    "title": "Session 3: Developing IS Strategy",
+    "section": "",
+    "text": "Key components of an IS strategy\nBusiness-IT alignment\nGroup exercise: Analyzing a company’s IS strategy\n\n\n\n\n Back to top",
+    "crumbs": [
+      "ABOUT",
+      "Module 2: IS Strategy & Decision-Making",
+      "Session 3: Developing IS Strategy"
     ]
   }
 ]
