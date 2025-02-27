@@ -1,5 +1,9 @@
 ---
 title: "Session 1: Course Introduction & Key Concepts"
+author: Guillaume Gilles
+format:
+  revealjs:
+    theme: dark
 ---
 
 # **Session 1: Course Introduction & Key Concepts**  

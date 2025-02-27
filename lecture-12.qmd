@@ -94,7 +94,7 @@ Would you like help drafting case studies or finding demo materials for the ERP 
 
 ## OpenAI API
 
-```{bash}
+```bash
 curl https://api.openai.com/v1/models \
   -H "Authorization: Bearer" \
   -H "OpenAI-Organization: " \
@@ -102,7 +102,7 @@ curl https://api.openai.com/v1/models \
 ```
 
 
-```{bash}
+```bash
 curl https://api.openai.com/v1/chat/completions \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer " \
