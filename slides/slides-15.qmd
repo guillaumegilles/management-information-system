@@ -1,0 +1,230 @@
+---
+title: "Session 15: **I**nformation **S**ystem failures"
+---
+
+# Table of Contents
+
+1. [Equifax Data Breach](#
+
+## Equifax Data Breach
+
+The **Equifax data breach**, which occurred in **2017**, was one of the most significant cybersecurity failures in history. The breach exposed the personal and financial data of **approximately 147 million people**, including names, Social Security numbers, birth dates, addresses, and in some cases, driver's license numbers and credit card details.
+
+---
+
+### **1. Background on Equifax**
+
+**Equifax** is one of the three major credit reporting agencies in the United States, alongside **Experian** and **TransUnion**. It collects and maintains vast amounts of consumer financial data, including credit scores, loan histories, and personal information, which it sells to banks, lenders, and other financial institutions.
+
+Given the sensitivity of the data Equifax handles, **cybersecurity** and **data protection** should have been a top priority. However, poor security practices and negligence led to a massive data breach that compromised personal information on an unprecedented scale.
+
+---
+
+###  **2. How the Breach Happened**
+
+#### **The Vulnerability (Apache Struts Exploit)**
+
+The breach was caused by a known vulnerability in **Apache Struts**, an open-source web application framework used by Equifax to support its online dispute portal. The vulnerability (**CVE-2017-5638**) was publicly disclosed on **March 7, 2017**, and a patch was made available at the same time.
+
+However, Equifax **failed to patch the vulnerability**, leaving its system exposed for **over two months**. Hackers exploited this flaw in **May 2017**, gaining unauthorized access to Equifax’s systems.
+
+#### **Hackers’ Actions**
+
+Once inside the system, the attackers:
+- **Extracted massive amounts of sensitive data** over several months.
+- **Encrypted their activity** to avoid detection.
+- **Used multiple IP addresses and techniques** to remain undetected by security monitoring tools.
+
+The breach was **not discovered until July 29, 2017**, and the public was only informed on **September 7, 2017**—more than a month later.
+
+---
+
+### **3. Consequences of the Breach**
+
+#### **Impact on Consumers**
+
+- **147 million people affected:** Personal data, including Social Security numbers, were exposed, making victims vulnerable to **identity theft and fraud**.
+- **Financial risk:** Stolen data could be used for **credit fraud**, fake loan applications, and even tax fraud.
+- **No consent:** Consumers never consented to Equifax collecting their data, yet their information was compromised.
+
+#### **Impact on Equifax**
+
+- **Reputation Damage:** The company’s **credibility was severely damaged**, leading to public outrage and loss of trust.
+- **Legal Consequences:** Equifax faced multiple lawsuits and government investigations.
+- **Financial Penalties:**
+  - Equifax **agreed to pay $700 million** in settlements to affected consumers and regulatory agencies.
+  - The company had to invest heavily in **security upgrades** and consumer compensation programs.
+
+#### **Regulatory and Government Response**
+- **U.S. Congress hearings:** Equifax executives, including CEO Richard Smith (who later resigned), were called to testify before Congress.
+- **FTC Settlement:** In **July 2019**, Equifax agreed to a **$700 million settlement** with the **Federal Trade Commission (FTC)**, the **Consumer Financial Protection Bureau (CFPB)**, and U.S. states.
+- **Legislation Changes:** The breach led to stronger discussions on **data protection laws** and stricter cybersecurity regulations.
+
+---
+
+### **4. Key Lessons from the Breach**
+
+#### **1. Patch Management is Critical**
+
+The breach could have been prevented had Equifax applied the **Apache Struts security patch** in a timely manner. Organizations must **implement automated patch management** to avoid similar vulnerabilities.
+
+#### **2. Stronger Cybersecurity Practices Needed**
+
+- Companies handling sensitive data must adopt **stronger security measures**, including **multi-factor authentication, encryption, and continuous monitoring**.
+- Regular **security audits and penetration testing** should be a routine practice.
+
+ #### **3. Incident Response & Disclosure Must Improve**
+
+- Equifax **took too long to detect the breach** and even longer to **inform the public**.
+- Companies should have **clear incident response plans** to detect, contain, and mitigate breaches swiftly.
+
+#### **4. Consumer Data Protection Should Be a Priority**
+
+- Organizations that store large volumes of consumer data should **prioritize cybersecurity investment** to protect their customers.
+- Regulations like **GDPR** and **CCPA** (California Consumer Privacy Act) were strengthened in response to cases like this, demanding **better data governance**.
+
+---
+
+### **5. Conclusion**
+
+The Equifax breach serves as a **cautionary tale** about the **consequences of cybersecurity negligence**. Despite being a company responsible for **safeguarding consumer financial data**, Equifax **failed to implement basic security measures**, leading to one of the largest data breaches in history. The event highlighted the **importance of cybersecurity governance**, **corporate responsibility**, and **strict regulatory compliance** in protecting personal data.
+
+#### Discussion Guide
+
+1. Understanding the Breach
+
+- What was the primary cause of the Equifax data breach?
+- How did Equifax’s failure to patch the Apache Struts vulnerability contribute to the breach?
+- What types of personal and financial data were exposed? Why is this data valuable to cybercriminals?
+
+2. Corporate Responsibility & Ethics
+
+- Equifax knew about the vulnerability for two months before the breach. Was this negligence or an unavoidable mistake?
+- Should companies that collect and store sensitive consumer data face stronger regulations and penalties for security failures?
+- What ethical responsibilities do companies have regarding customer data protection?
+
+3. Impact on Consumers & Businesses
+
+- What were the real-world consequences for the 147 million affected consumers?
+- How can individuals protect themselves against identity theft after such breaches?
+- How did this breach affect Equifax’s reputation, stock price, and financial standing?
+
+4. Regulatory & Legal Consequences
+
+- Equifax settled for $700 million in fines and compensation. Was this sufficient or should penalties have been harsher?
+- How did this breach influence data protection laws, such as the GDPR (General Data Protection Regulation) and CCPA (California Consumer Privacy Act)?
+- Should governments impose stricter regulations on credit bureaus and similar data-rich organizations?
+
+5. Lessons & Future Prevention
+
+- What security measures could Equifax have implemented to prevent the breach?
+- How should companies respond quickly and transparently when a data breach occurs?
+- What role do patch management, encryption, and cybersecurity training play in preventing such incidents?
+
+
+
+
+
+
+There have been several **massive information system failures** throughout history, often due to cybersecurity breaches, software bugs, system mismanagement, or poor governance. Here are some notable examples:  
+
+---
+
+## **1. Facebook-Cambridge Analytica Scandal (2018)**
+### **What Happened?**  
+- **Cambridge Analytica**, a political consulting firm, harvested **data from 87 million Facebook users** without their consent.  
+- The firm used this data to create **psychographic profiles** and targeted political advertisements, including during the **2016 U.S. Presidential Election** and the **Brexit referendum**.  
+
+### **Key Failures**  
+- **Weak Data Privacy Controls:** Facebook allowed third-party apps to collect excessive user data.  
+- **Lack of Transparency:** Users were unaware their data was being shared.  
+- **Regulatory Violations:** Facebook was fined **$5 billion** by the **FTC** for violating user privacy.  
+
+### **Lessons Learned**  
+- The **importance of data privacy** and the need for **stricter regulations** like **GDPR** (General Data Protection Regulation).  
+- Companies must have **clear policies** for third-party data sharing and **stronger consent mechanisms**.  
+
+---
+
+## **2. Target Data Breach (2013)**
+### **What Happened?**  
+- Hackers **stole credit and debit card data** from **40 million customers** during the holiday shopping season.  
+- The breach was traced back to a **third-party vendor** that had weak cybersecurity.  
+
+### **Key Failures**  
+- **Weak Vendor Security:** Attackers gained access through an **HVAC contractor** that had **poor cybersecurity protections**.  
+- **Ignored Warnings:** Target’s security systems flagged suspicious activity, but **alerts were ignored**.  
+- **Failure to Encrypt Sensitive Data:** The stolen data was not adequately protected.  
+
+### **Lessons Learned**  
+- **Third-party risk management** is crucial for cybersecurity.  
+- **Proactive monitoring and quick response** to security threats can prevent damage.  
+
+---
+
+## **3. TSB Bank IT Failure (2018)**
+### **What Happened?**  
+- TSB, a UK bank, attempted to **migrate 1.3 billion records** to a new IT platform.  
+- The migration **failed catastrophically**, causing **millions of customers** to lose access to their accounts.  
+
+### **Key Failures**  
+- **Poor IT Project Management:** The system was **not properly tested** before deployment.  
+- **Lack of Backups & Contingency Plans:** TSB had **no rollback plan** when the failure occurred.  
+- **Reputational Damage:** The CEO resigned, and the bank faced **£330 million in costs and compensation**.  
+
+### **Lessons Learned**  
+- IT system upgrades **must be thoroughly tested** before launch.  
+- **Disaster recovery plans** are critical in case of failures.  
+
+---
+
+## **4. Boeing 737 MAX Software Failure (2018-2019)**
+### **What Happened?**  
+- Boeing’s **MCAS (Maneuvering Characteristics Augmentation System)** had a software flaw that caused **two fatal crashes** (Lion Air Flight 610 & Ethiopian Airlines Flight 302), killing **346 people**.  
+
+### **Key Failures**  
+- **Lack of Pilot Training:** Pilots were not informed about MCAS and did not know how to override it.  
+- **Software Overdependence:** MCAS relied on a **single sensor**, making it vulnerable to failure.  
+- **Regulatory Oversight Issues:** Boeing **rushed development** and pressured regulators to **approve the plane quickly**.  
+
+### **Lessons Learned**  
+- **Software in critical systems must be thoroughly tested.**  
+- **Transparency in safety-critical software is crucial.**  
+
+---
+
+## **5. Healthcare.gov Launch Failure (2013)**
+### **What Happened?**  
+- The U.S. government’s **Affordable Care Act (Obamacare) website** failed upon launch.  
+- Users **couldn’t register**, and the site **crashed under heavy traffic**.  
+
+### **Key Failures**  
+- **Lack of Scalability:** The system was not designed to handle **millions of users at once**.  
+- **Poor Coordination:** Multiple contractors worked on different parts of the site without **proper integration**.  
+- **Rushed Deployment:** The system was **launched without proper testing**.  
+
+### **Lessons Learned**  
+- **Load testing and scalability planning** are crucial for large-scale IT projects.  
+- **Centralized project management** helps avoid coordination issues.  
+
+---
+
+## **6. Sony PlayStation Network (PSN) Hack (2011)**
+### **What Happened?**  
+- **Hackers stole personal data from 77 million PlayStation users** and **shut down the network for 23 days**.  
+
+### **Key Failures**  
+- **Weak Cybersecurity Measures:** Sony had **outdated security practices**.  
+- **No Encryption of Sensitive Data:** Personal user information was **stored in plaintext**.  
+- **Delayed Public Disclosure:** Sony **waited a week** before informing users.  
+
+### **Lessons Learned**  
+- **Encryption of sensitive data is essential.**  
+- **Quick response and transparency** are necessary during a breach.  
+
+---
+
+## **Final Thoughts**  
+These massive **information system failures** highlight the **importance of cybersecurity, IT governance, and risk management**. Whether it’s **data breaches, software failures, or poor project execution**, organizations must invest in **robust security, testing, and contingency planning** to prevent catastrophic failures.
+
+Would you like me to go deeper into any specific case? 🚀
