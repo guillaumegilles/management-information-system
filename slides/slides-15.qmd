@@ -1,10 +1,14 @@
 ---
 title: "Session 15: **I**nformation **S**ystem failures"
+author: Guillaume Gilles
+format:
+  revealjs:
+    theme: dark
 ---
 
 # Table of Contents
 
-1. [Equifax Data Breach](#
+1. [Equifax Data Breach](#equifax-data-breach)
 
 ## Equifax Data Breach
 
@@ -28,6 +32,10 @@ The breach was caused by a known vulnerability in **Apache Struts**, an open-sou
 
 However, Equifax **failed to patch the vulnerability**, leaving its system exposed for **over two months**. Hackers exploited this flaw in **May 2017**, gaining unauthorized access to Equifax’s systems.
 
+---
+
+###  **2. How the Breach Happened**
+
 #### **Hackers’ Actions**
 
 Once inside the system, the attackers:
@@ -47,6 +55,10 @@ The breach was **not discovered until July 29, 2017**, and the public was only i
 - **Financial risk:** Stolen data could be used for **credit fraud**, fake loan applications, and even tax fraud.
 - **No consent:** Consumers never consented to Equifax collecting their data, yet their information was compromised.
 
+---
+
+### **3. Consequences of the Breach**
+
 #### **Impact on Equifax**
 
 - **Reputation Damage:** The company’s **credibility was severely damaged**, leading to public outrage and loss of trust.
@@ -54,6 +66,10 @@ The breach was **not discovered until July 29, 2017**, and the public was only i
 - **Financial Penalties:**
   - Equifax **agreed to pay $700 million** in settlements to affected consumers and regulatory agencies.
   - The company had to invest heavily in **security upgrades** and consumer compensation programs.
+
+---
+
+### **3. Consequences of the Breach**
 
 #### **Regulatory and Government Response**
 - **U.S. Congress hearings:** Equifax executives, including CEO Richard Smith (who later resigned), were called to testify before Congress.
@@ -68,15 +84,27 @@ The breach was **not discovered until July 29, 2017**, and the public was only i
 
 The breach could have been prevented had Equifax applied the **Apache Struts security patch** in a timely manner. Organizations must **implement automated patch management** to avoid similar vulnerabilities.
 
+---
+
+### **4. Key Lessons from the Breach**
+
 #### **2. Stronger Cybersecurity Practices Needed**
 
 - Companies handling sensitive data must adopt **stronger security measures**, including **multi-factor authentication, encryption, and continuous monitoring**.
 - Regular **security audits and penetration testing** should be a routine practice.
 
- #### **3. Incident Response & Disclosure Must Improve**
+---
+
+### **4. Key Lessons from the Breach**
+
+#### **3. Incident Response & Disclosure Must Improve**
 
 - Equifax **took too long to detect the breach** and even longer to **inform the public**.
 - Companies should have **clear incident response plans** to detect, contain, and mitigate breaches swiftly.
+
+---
+
+### **4. Key Lessons from the Breach**
 
 #### **4. Consumer Data Protection Should Be a Priority**
 
@@ -88,6 +116,16 @@ The breach could have been prevented had Equifax applied the **Apache Struts sec
 ### **5. Conclusion**
 
 The Equifax breach serves as a **cautionary tale** about the **consequences of cybersecurity negligence**. Despite being a company responsible for **safeguarding consumer financial data**, Equifax **failed to implement basic security measures**, leading to one of the largest data breaches in history. The event highlighted the **importance of cybersecurity governance**, **corporate responsibility**, and **strict regulatory compliance** in protecting personal data.
+
+---
+
+### 🎮
+
+```{=html}
+<iframe width="900" height="600" src="https://app.wooclap.com/events/UPZAUK/0" title="wooclap activity"></iframe>
+```
+
+---
 
 #### Discussion Guide
 
