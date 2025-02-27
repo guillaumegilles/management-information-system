@@ -1,0 +1,95 @@
+---
+title: "Session 1: Course Introduction & Key Concepts"
+---
+
+# **Session 1: Course Introduction & Key Concepts**  
+📅 **Duration:** 2 hours  
+🎯 **Learning Objectives:**  
+By the end of this session, students should be able to:  
+- Understand the course structure, objectives, and assessment methods.  
+- Define Information Systems (IS) and explain their role in business.  
+- Identify key challenges in IS management.  
+- Discuss real-world examples of how IS supports business strategy.  
+
+---
+
+## **📌 Part 1: Course Overview (30 minutes)**  
+🎤 **Instructor Introduction** (5 min)  
+- Brief background on the instructor.  
+- Relevance of IS management in today's business environment.  
+
+📚 **Syllabus & Course Structure** (15 min)  
+- Overview of the **course topics** (15 sessions).  
+- Explanation of **assessments**:  
+  - **Project (40%)** – Group project analyzing a real-world organization’s IS strategy.  
+  - **Written Assignments (30%)** – Individual essays on IT ethics and governance.  
+  - **Individual Tasks (30%)** – Presentations/reports on selected readings and IS trends.  
+- Expected student engagement and participation.  
+
+💬 **Icebreaker Activity: What Do You Expect?** (10 min)  
+- Students discuss their expectations for the course.  
+- Instructor asks: “What IS-related challenges have you encountered or heard about?”  
+
+---
+
+## **📌 Part 2: Understanding Information Systems (40 minutes)**  
+📖 **Lecture: What is an Information System?** (15 min)  
+- **Definition**: IS is a set of components (hardware, software, data, people, processes) that work together to manage and process information.  
+- **Examples**: ERP systems (SAP, Oracle), CRM (Salesforce), Business Intelligence tools (Power BI).  
+- **Types of IS**:  
+  - Transaction Processing Systems (TPS)  
+  - Management Information Systems (MIS)  
+  - Decision Support Systems (DSS)  
+  - Enterprise Systems (ERP, SCM, CRM)  
+
+🛠 **Activity: Identify IS in Everyday Life** (10 min)  
+- Students list IS they use daily (e.g., Google Drive, Netflix, online banking).  
+- Class discussion on how these systems support decision-making.  
+
+📌 **Case Example: Amazon’s Use of IS** (15 min)  
+- How Amazon leverages IS for:  
+  - **Inventory management** (AI-driven demand forecasting).  
+  - **Customer personalization** (data analytics and machine learning).  
+  - **Cloud computing** (AWS as a business strategy).  
+- Discussion: “How does Amazon’s IS align with its business strategy?”  
+
+---
+
+## **📌 Part 3: Challenges in IS Management (30 minutes)**  
+🛠 **Lecture: Key Challenges in Managing IS** (10 min)  
+- **Technology Evolution:** Keeping up with rapid technological changes.  
+- **Security & Privacy:** Cybersecurity threats and data breaches.  
+- **Strategic Alignment:** Ensuring IS supports business goals.  
+- **Change Management:** Resistance to new systems within organizations.  
+
+💬 **Group Discussion: The Biggest IS Challenge Today?** (10 min)  
+- Students brainstorm the biggest IS challenges in businesses today.  
+- Each group presents one challenge and a possible solution.  
+
+📌 **Mini Case Study: A Cybersecurity Failure (Equifax Data Breach)** (10 min)  
+- What happened? 147 million people’s data was exposed.  
+- What went wrong in IS management?  
+- Lessons learned for businesses.  
+
+---
+
+## **📌 Part 4: Wrap-Up & Reflection (20 minutes)**  
+📝 **Quick Recap & Key Takeaways** (10 min)  
+- What is IS, and why is it important?  
+- How do businesses use IS strategically?  
+- What are the key IS challenges today?  
+
+🎯 **Reflection Activity** (10 min)  
+- Each student writes down one IS-related question they want answered in this course.  
+- Instructor collects and addresses a few in the next session.  
+
+💡 **Homework for Next Session:**  
+1. **Read**: "Strategic alignment: A model for organizational transformation through IT" (Henderson & Venkatraman, 1992).  
+2. **Prepare**: A 2-minute summary of how IS strategy aligns with business strategy.  
+
+---
+
+### **Why This Approach?**  
+✅ **Engagement:** Interactive discussions, real-world cases, and group activities.  
+✅ **Application:** Connecting concepts to companies like Amazon and Equifax.  
+✅ **Foundation Building:** Covers key IS concepts before diving deeper in future sessions.
