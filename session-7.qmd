@@ -1,0 +1,8 @@
+---
+title: "Session 7: Implementing IS in Organizations"
+---
+
+
+    IS project lifecycle (planning, implementation, evaluation)
+    Change management in IS adoption
+    Exercise: Managing resistance to IS change

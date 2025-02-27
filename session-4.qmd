@@ -1,0 +1,7 @@
+---
+title: "Session 4: Decision-Making in IS Management"
+---
+
+    Decision-making frameworks in IS
+    Data-driven decision-making
+    Simulation: IS decision-making in a competitive environment

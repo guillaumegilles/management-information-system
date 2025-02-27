@@ -1,0 +1,8 @@
+---
+title: "Session 3: Developing IS Strategy"
+---
+
+- Key components of an IS strategy
+- Business-IT alignment
+- Group exercise: Analyzing a company’s IS strategy
+

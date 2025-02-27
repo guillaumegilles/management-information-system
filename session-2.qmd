@@ -1,0 +1,7 @@
+---
+title: "IS Governance & Strategic Alignment"
+---
+
+- IS governance frameworks (COBIT, ITIL)
+- Strategic alignment model (Henderson & Venkatraman, 1992)
+- Case Study: Evaluating IS governance in a real-world company
