@@ -4,9 +4,9 @@ description: >
   test de desc
 ---
 
-This page contains an outline of the topics, content, and assignments for
-the semester. Note that this schedule will be updated as the semester
-progresses and the timeline of topics and assignments might be updated
-throughout the semester.
+Félicitation chères aventuriers,
 
-Session Date Topic Prepare Materials Due
+Vous devez réaliser une cartographie du système d'information de l'ESSCA afin de pouvoir sauvé, xxxx emprisoné dans une région secrète. Il va vous falloir explorer chaque région du SI afin d'en établir une carte précise pour quue vous puissiez naviguer
+
+1. Cybersécurité : (monstres ce sont les risques)
+2. process > fonctions
